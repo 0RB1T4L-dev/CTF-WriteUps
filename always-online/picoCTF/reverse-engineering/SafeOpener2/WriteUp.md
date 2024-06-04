@@ -1,4 +1,4 @@
-## Challenge Name: <name>
+## Challenge Name: Safe Opener 2
 Category: Reverse Engineering
 
 Points: 100
